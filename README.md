@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Ahrei/Ahrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
+<img width="100%" align="center" alt="Github" src="https://media.discordapp.net/attachments/780757001080012850/878337257499689010/E86mGDqWQAEEktM.png?width=1440&height=337" />
